@@ -5,7 +5,7 @@ int main(void)
 
 {
 
-	cout<<"Goodbye World";
+	cout<<"Hello World";
 	system("PAUSE");
 	return 0;
 }
